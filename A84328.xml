@@ -1,0 +1,713 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy on the death of trade by a relation of the deceased.</title>
+            <author>Relation of the deceased.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84328</idno>
+            <idno type="STC">Wing E412</idno>
+            <idno type="STC">ESTC R171919</idno>
+            <idno type="EEBO-CITATION">45578340</idno>
+            <idno type="OCLC">ocm 45578340</idno>
+            <idno type="VID">172269</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172269)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2623:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy on the death of trade by a relation of the deceased.</title>
+                  <author>Relation of the deceased.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title printed within mourning border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Commerce --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172269:1" rendition="simple:additions"/>
+            <p>AN ELEGY ON THE DEATH OF TRADE</p>
+            <p>By a Relation of the Deceaſed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1698</p>
+            <pb facs="tcp:172269:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="3" facs="tcp:172269:2"/>
+            <head>AN ELEGY ON THE DEATH OF TRADE.</head>
+            <lg>
+               <l>A Worthy Old Dame,</l>
+               <l>Mother <hi>Trade</hi> was her Name,</l>
+               <l>That had long lain in deſperate State,</l>
+               <l>Perceiving at laſt</l>
+               <l>That all Hopes were paſt,</l>
+               <l>Contentedly bends to her Fate.</l>
+            </lg>
+            <lg>
+               <l>And ſince ſhe is gone,</l>
+               <l>For the good Deeds ſh'has done,</l>
+               <l>As 'tis common in ſuch like Caſes,</l>
+               <l>We can ſure do no leſs,</l>
+               <l>Than attend on her Hearſe,</l>
+               <l>With ſome Marks of Remorſe on our Faces.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:172269:3"/>
+               <l>There's her Grand-daughter <hi>Art,</hi>
+               </l>
+               <l>Hath almoſt broke her Heart,</l>
+               <l>For the Loſs of ſo Faithful a Friend:</l>
+               <l>She ſits in her Chair,</l>
+               <l>In the Depth of Deſpair,</l>
+               <l>And ſeems to draw near to'ards her End.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Induſtry</hi> her Siſter,</l>
+               <l>When ſhe left her, ſhe kiſt her,</l>
+               <l>And bid her for Ever Adieu;</l>
+               <l>I muſt ſeek out a place,</l>
+               <l>Where to alter the Caſe,</l>
+               <l>For here I find 'twill not do.</l>
+            </lg>
+            <lg>
+               <l>Her Couſin <hi>Invention,</hi>
+               </l>
+               <l>Seems too in Declenſion,</l>
+               <l>And ſits down by her, and cries,</l>
+               <l>Oh! what ſhall I do?</l>
+               <l>I have nought to purſue,</l>
+               <l>Except it be Forging of <hi>Lies.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But what is ſtill worſe,</l>
+               <l>'Twou'd make a Man Curſe,</l>
+               <l>Her Landlord has ſeiz'd all ſhe had;</l>
+               <l>He hath not allow'd</l>
+               <l>Her a Coffin and Shroud,</l>
+               <l>Good People, e'nt this very ſad?</l>
+            </lg>
+            <lg>
+               <l>But the <hi>Beadle</hi> is gone,</l>
+               <l>To ſee what can be done;</l>
+               <l>'Tis hard ſhe ſhou'd lye above-ground,</l>
+               <l>And yonder he comes,</l>
+               <l>A biting his Thumbs;</l>
+               <l>I'm afraid there's no help to be found.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:172269:3"/>
+               <l>Then, come Mr. <hi>Beadle,</hi>
+               </l>
+               <l>Pray how look the People?</l>
+               <l>What means this mighty Dejection?</l>
+               <l>Why, Sir, the Folk look,</l>
+               <l>Like our Conſtable's Book,</l>
+               <l>That hath been theſe Three Years in Collection.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>I'm afraid, Mr. Blue Coat,</hi>
+               </l>
+               <l>
+                  <hi>That you are no True Coat,</hi>
+               </l>
+               <l>
+                  <hi>For all you look ſo preciſely;</hi>
+               </l>
+               <l>
+                  <hi>Why, ſure they will give,</hi>
+               </l>
+               <l>
+                  <hi>Since they wou'd'nt let her live,</hi>
+               </l>
+               <l>
+                  <hi>Somé ſmall thing to Bury her wiſely.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Come, come, you muſt out,</hi>
+               </l>
+               <l>
+                  <hi>And try t'other bout,</hi>
+               </l>
+               <l>
+                  <hi>And pray put the thing to the Godly.</hi>
+               </l>
+               <l>
+                  <hi>What! Muſt the good Dame</hi>
+               </l>
+               <l>
+                  <hi>Lye unburied? For ſhame;</hi>
+               </l>
+               <l>
+                  <hi>This all o're the World will look odly.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Why, Sir, if you'd hear me,</l>
+               <l>You'd inſtantly clear me,</l>
+               <l>I have been with abundance already,</l>
+               <l>As God knows my Heart,</l>
+               <l>I have acted my part,</l>
+               <l>And was always to ſerve her moſt ready.</l>
+            </lg>
+            <lg>
+               <l>I have been with the <hi>Merchant,</hi>
+               </l>
+               <l>Who you know is an Arch one,</l>
+               <l>As alſo with the <hi>Baker</hi> and <hi>Brewer,</hi>
+               </l>
+               <l>I have been with the <hi>Banker,</hi>
+               </l>
+               <l>And with him that makes th' <hi>Anchor,</hi>
+               </l>
+               <l>With the <hi>Taylor,</hi> and almoſt all that knew her.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:172269:4"/>
+               <l>
+                  <hi>Then pardon my Paſſion,</hi>
+               </l>
+               <l>
+                  <hi>'Twas my Zeal for my Nation,</hi>
+               </l>
+               <l>
+                  <hi>That urg'd me a little too faſt:</hi>
+               </l>
+               <l>
+                  <hi>Come, prethee, go on,</hi>
+               </l>
+               <l>
+                  <hi>Let me know Man by Man,</hi>
+               </l>
+               <l>
+                  <hi>What betwixt you and each of them paſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For the <hi>Merchant</hi> then firſt,</l>
+               <l>When I told him, he Curſt,</l>
+               <l>And Swore he expected it long:</l>
+               <l>I'll be moving, ſays he,</l>
+               <l>No, Faith, they ſhall ſee</l>
+               <l>I'll ne're ſtay to Starve with the Throng.</l>
+            </lg>
+            <lg>
+               <l>My Debts lay an Embargo,</l>
+               <l>Or I'd be my own Cargo,</l>
+               <l>And Sail to the Land of <hi>Mogul;</hi>
+               </l>
+               <l>But when a Man Breaks,</l>
+               <l>His Veſſel then Leaks,</l>
+               <l>And 'tis Danger to Swim in the Hull.</l>
+            </lg>
+            <lg>
+               <l>But I'll Sell what I've got, Land,</l>
+               <l>And e'en go to <hi>Scotland,</hi>
+               </l>
+               <l>I'll venture their Itch and their Lice;</l>
+               <l>'Tis better, you know,</l>
+               <l>Mr. <hi>Beadle,</hi> to go,</l>
+               <l>Than to ſtay here to be eat up with Mice.</l>
+            </lg>
+            <lg>
+               <l>And now for to give,</l>
+               <l>I have nought, as I live,</l>
+               <l>I was never ſo Poor in my Life;</l>
+               <l>The Times are ſo Dead,</l>
+               <l>I can hardly get Bread</l>
+               <l>For my Self, my Children, and Wife.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:172269:4"/>
+               <l>Next I went to the <hi>Baker,</hi>
+               </l>
+               <l>And he was a <hi>Quaker,</hi>
+               </l>
+               <l>But a little inclin'd to the <hi>Papiſt,</hi>
+               </l>
+               <l>When I told him our Loſs,</l>
+               <l>He made on him a Croſs,</l>
+               <l>And Swore and Damn'd like an Atheiſt.</l>
+            </lg>
+            <lg>
+               <l>Says he, Friend, be gone,</l>
+               <l>For Money I've none,</l>
+               <l>Go, prethee don't trouble my Shop;</l>
+               <l>Don't tell me o'the Dead,</l>
+               <l>I muſt live by my Bread,</l>
+               <l>And ſo I was forc'd for to lope.</l>
+            </lg>
+            <lg>
+               <l>When I came out o'the Door,</l>
+               <l>Says I, you Son of a Whore,</l>
+               <l>By your <hi>Foreſtalling, Regrating,</hi> and <hi>Cheating,</hi>
+               </l>
+               <l>You have got an Eſtate,</l>
+               <l>And that makes you prate,</l>
+               <l>Take notice I owe you a beating.</l>
+            </lg>
+            <lg>
+               <l>I went hence to the <hi>Brewer,</hi>
+               </l>
+               <l>And there I thought ſure</l>
+               <l>I ſhou'd meet with a little Relief;</l>
+               <l>But, Faith, when I come,</l>
+               <l>He look'd ſo Damn'd grum,</l>
+               <l>I ſaid nothing, but ſtood like a Thief.</l>
+            </lg>
+            <lg>
+               <l>It ſeems 'twas the Day</l>
+               <l>He was doom'd to go pay,</l>
+               <l>Upon Ale and Beer, the Exciſe,</l>
+               <l>Betwixt Taxes and Malt,</l>
+               <l>Says he, I don't get Salt,</l>
+               <l>And ſo ſhould lay down, were I wiſe.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:172269:5"/>
+               <l>At length I grew bold,</l>
+               <l>And went to him, and told</l>
+               <l>The long and ſhort of the Thing,</l>
+               <l>His Reply was, don't teeze me,</l>
+               <l>Pray Friend, I'd be eaſie,</l>
+               <l>I muſt give not to her, but the King.</l>
+            </lg>
+            <lg>
+               <l>Then next with the <hi>Banker</hi>
+               </l>
+               <l>I ſoon caſt my Anchor,</l>
+               <l>And told him the ſtate of the Dame;</l>
+               <l>His Anſwer was ſhort,</l>
+               <l>All he had lay at Court,</l>
+               <l>And bid me return whence I came.</l>
+            </lg>
+            <lg>
+               <l>To th' <hi>Anchor-ſmith</hi> next,</l>
+               <l>Whom I found ſadly vext,</l>
+               <l>At the News of a Merchant juſt Broke,</l>
+               <l>I ask'd him for ſomething,</l>
+               <l>Who ſtood like a Dumb thing,</l>
+               <l>At laſt ſcratcht his Head, and thus ſpoke.</l>
+            </lg>
+            <lg>
+               <l>Friend, did you but know,</l>
+               <l>You'd ne're preſs me ſo,</l>
+               <l>And out he lugs a long Scroul;</l>
+               <l>As God is to Save me,</l>
+               <l>'Twixt Merchants and Navy,</l>
+               <l>I'm utterly Ruin'd, by my Soul.</l>
+            </lg>
+            <lg>
+               <l>Thence I trudg'd to the <hi>Taylor,</hi>
+               </l>
+               <l>That Wretch did bewail her,</l>
+               <l>But Swore he had never a Souſe;</l>
+               <l>If I had it, ſaid he,</l>
+               <l>You ſhou'd have ſomething of me,</l>
+               <l>But, Faith, I'm ſcarce worth a Louſe.</l>
+            </lg>
+            <lg>
+               <pb n="9" facs="tcp:172269:5"/>
+               <l>A Pox take all the Beaus,</l>
+               <l>They muſt have their New Cloaths;</l>
+               <l>I abhor thoſe Fools in the Faſhion:</l>
+               <l>Your Knights, 'Squires, and Lords,</l>
+               <l>That won't keep their Words,</l>
+               <l>By Heavens, wou'd there was none in the Nation.</l>
+            </lg>
+            <lg>
+               <l>I went next to the <hi>Drapers,</hi>
+               </l>
+               <l>Found their Boys Cutting Capers,</l>
+               <l>With abundance of Fiddles and Flutes;</l>
+               <l>But when I ask'd them for Money,</l>
+               <l>They ſtood ſtaring upon me,</l>
+               <l>As tho' they'd been ſo many Mutes.</l>
+            </lg>
+            <lg>
+               <l>Said I, where is your Maſter?</l>
+               <l>So I told the Diſaſter;</l>
+               <l>To which anſwers one of the wiſeſt,</l>
+               <l>Sir, he ſeldom comes here,</l>
+               <l>If he does, he with Beer,</l>
+               <l>In a dreadful manner diſguis'd is.</l>
+            </lg>
+            <lg>
+               <l>From the <hi>Draper</hi> of <hi>Linnen,</hi>
+               </l>
+               <l>(Which they <hi>Sell,</hi> and then <hi>Sin</hi> in)</l>
+               <l>I went to their Brother of <hi>Wooll;</hi>
+               </l>
+               <l>But he gave me a Joke,</l>
+               <l>And ſaid that his Poke</l>
+               <l>Was as empty as his Skull.</l>
+            </lg>
+            <lg>
+               <l>To the next that I went,</l>
+               <l>Was Old Sir <hi>Cent. per Cent.</hi>
+               </l>
+               <l>That was ſoundly Enricht by her Art;</l>
+               <l>His Reply was in ſhort,</l>
+               <l>I have found better Sport,</l>
+               <l>And don't value her Death of a Fart.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:172269:6"/>
+               <l>Being thus in quandary,</l>
+               <l>I met <hi>Apothecary,</hi>
+               </l>
+               <l>And told him the full of the Matter;</l>
+               <l>He call'd me aſide,</l>
+               <l>And ask'd when ſhe Dy'd,</l>
+               <l>And withal, what Doctors came at her.</l>
+            </lg>
+            <lg>
+               <l>I'm afraid, with their Bliſters,</l>
+               <l>Their Purges and Cliſters,</l>
+               <l>And Iſſues in every part,</l>
+               <l>They weaken'd her ſo much,</l>
+               <l>She cou'd not ſtand the touch,</l>
+               <l>I'm afraid on't with all my Heart.</l>
+            </lg>
+            <lg>
+               <l>If her Head had been ſhav'd,</l>
+               <l>She might have been Sav'd,</l>
+               <l>Had ſhe taken a Vomit withal;</l>
+               <l>But if ſhe's Dead, 'tis in vain</l>
+               <l>Any more to complain,</l>
+               <l>Here's a Couple of Pence, 'tis my All.</l>
+            </lg>
+            <lg>
+               <l>I march'd next to the <hi>Preſſers,</hi>
+               </l>
+               <l>And from him to the <hi>Mercers,</hi>
+               </l>
+               <l>Where the <hi>Foreman</hi> ſtood Combing his Wig,</l>
+               <l>At the fur-end o'th' Shop,</l>
+               <l>The Lads were Whipping Top,</l>
+               <l>In the middle one Dancing a Jig.</l>
+            </lg>
+            <lg>
+               <l>You muſt know this Spruce Cit,</l>
+               <l>Laid a Claim to ſome Wit,</l>
+               <l>And to ſhew it, took a Wiſe for her Beauty;</l>
+               <l>But I ſaw by his Face,</l>
+               <l>There was ſomething i'th' Caſe,</l>
+               <l>I'm afraid ſh'had late been on Duty.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:172269:6"/>
+               <l>VVell, without long Petition,</l>
+               <l>I told the Condition,</l>
+               <l>He gave me this Anſwer in brief,</l>
+               <l>I lament the good Dame,</l>
+               <l>And ſpeak it with Shame,</l>
+               <l>But have nothing to give for Relief.</l>
+            </lg>
+            <lg>
+               <l>Being Deviliſhly vext,</l>
+               <l>To a VVretch I went next,</l>
+               <l>That was Selling of Buttons and Thread;</l>
+               <l>But had you been there,</l>
+               <l>You'd have ſaid, I dare Sware,</l>
+               <l>He was more fit to be ty'd in his Bed.</l>
+            </lg>
+            <lg>
+               <l>VVhen I told him, Mother <hi>Trade</hi>
+               </l>
+               <l>VVas gone to the Shade,</l>
+               <l>He Swore a great Oath, why do'u name her,</l>
+               <l>I have juſt Bought a Horſe,</l>
+               <l>And I'll out for a Purſe,</l>
+               <l>I'd almoſt venture Hanging to ſhame her.</l>
+            </lg>
+            <lg>
+               <l>I thought 'twas no boot,</l>
+               <l>To ſay more to the Brute,</l>
+               <l>And ſo to the <hi>Sadler</hi> I pack,</l>
+               <l>VVhere I found him a Swearing,</l>
+               <l>Stamping, Grinning, and Staring,</l>
+               <l>He had ſcarce got <hi>One</hi> to his Back.</l>
+            </lg>
+            <lg>
+               <l>Says he, theſe Commanders,</l>
+               <l>By their VVarring in <hi>Flanders,</hi>
+               </l>
+               <l>Have ſo Curſedly run in my Debt,</l>
+               <l>They've ſcarce left me a Farthing,</l>
+               <l>To keep me from Starving,</l>
+               <l>Prethee, Friend, don't urge me to Fret.</l>
+            </lg>
+            <lg>
+               <pb n="12" facs="tcp:172269:7"/>
+               <l>I went then to the <hi>Grocers,</hi>
+               </l>
+               <l>To the <hi>Braſiers</hi> and <hi>Throſters,</hi>
+               </l>
+               <l>To the <hi>Binders</hi> and <hi>Sellers</hi> of <hi>Books;</hi>
+               </l>
+               <l>But for the Succeſs,</l>
+               <l>I could preſently gueſs,</l>
+               <l>By their Goods in their Shops, and their Looks.</l>
+            </lg>
+            <lg>
+               <l>I went next to the <hi>Black-ſmith,</hi>
+               </l>
+               <l>The <hi>Silver</hi> and <hi>Jack-ſmith,</hi>
+               </l>
+               <l>And ſo call'd on a <hi>Perfumer,</hi>
+               </l>
+               <l>But he like a Rogue,</l>
+               <l>Tho' the Chief Trade in vogue,</l>
+               <l>Bid the Devil in Hell conſume her.</l>
+            </lg>
+            <lg>
+               <l>I went to the <hi>Printer,</hi>
+               </l>
+               <l>The <hi>Victualler</hi> and <hi>Vintner,</hi>
+               </l>
+               <l>But there finding nothing but Chalk,</l>
+               <l>To the <hi>Weavers</hi> I went,</l>
+               <l>But being near Day of Rent,</l>
+               <l>They were all mov'd, their Landlords to baulk.</l>
+            </lg>
+            <lg>
+               <l>But, Sir, 'tis too long</l>
+               <l>To repeat the whole Throng,</l>
+               <l>I have been with moſt Trades in the City,</l>
+               <l>And ſaid what I cou'd,</l>
+               <l>But 'twould all do no good,</l>
+               <l>They're too Poor to be wrought into Pity.</l>
+            </lg>
+            <lg>
+               <l>Having finiſh'd my Range,</l>
+               <l>From <hi>Temple-Bar</hi> to the <hi>Change,</hi>
+               </l>
+               <l>I thought of a New Expedition,</l>
+               <l>I was reſolv'd to go,</l>
+               <l>As far as <hi>Soho,</hi>
+               </l>
+               <l>And try of <hi>French</hi> and <hi>Dutch</hi> the Condition.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:172269:7"/>
+               <l>And yet by the way,</l>
+               <l>I made a ſhort ſtay</l>
+               <l>At the <hi>Temple,</hi> if you know the place, Sir,</l>
+               <l>On a <hi>Lawyer</hi> I call'd,</l>
+               <l>That oft Client had maul'd,</l>
+               <l>And told him the ſtate of my Caſe, Sir.</l>
+            </lg>
+            <lg>
+               <l>He ask'd me, from whence</l>
+               <l>I had that Impudence,</l>
+               <l>To expect any Goodneſs from him;</l>
+               <l>Says he, Sirrah, you know</l>
+               <l>We have nothing to do,</l>
+               <l>But to Cheat, Drink, Whore, and go Trim.</l>
+            </lg>
+            <lg>
+               <l>Then Mr. <hi>Attorney,</hi>
+               </l>
+               <l>Since it don't concern ye</l>
+               <l>I'll go to the <hi>Jobbler</hi> of <hi>Stocks;</hi>
+               </l>
+               <l>But he'd Jobb'd ſo long,</l>
+               <l>As I found by his Song,</l>
+               <l>That he could give her nought but the Pox.</l>
+            </lg>
+            <lg>
+               <l>I went next to the <hi>Prieſt,</hi>
+               </l>
+               <l>But he Swore, 'twas a Jeſt</l>
+               <l>To ask any Charity there,</l>
+               <l>For he'd many Children to get,</l>
+               <l>With much Coſt, Pains, and Sweat,</l>
+               <l>Beſides ſomething for Puddings and Beer.</l>
+            </lg>
+            <lg>
+               <l>And now for <hi>Monſieur,</hi>
+               </l>
+               <l>Who before I came near,</l>
+               <l>I ſuppoſe, had ſmelt out the Matter;</l>
+               <l>He makes two or three Cringes,</l>
+               <l>As if he hung upon Hinges,</l>
+               <l>And thus he began for to Flatter,</l>
+            </lg>
+            <lg>
+               <pb n="14" facs="tcp:172269:8"/>
+               <l>Begar, me and <hi>Minheir,</hi>
+               </l>
+               <l>Bin very ſorry to hear</l>
+               <l>Of de Death of de <hi>Engliſh</hi> Trade;</l>
+               <l>Dis be one good Nation,</l>
+               <l>Upon my Salvation,</l>
+               <l>As ever me tinke dat God made.</l>
+            </lg>
+            <lg>
+               <l>Here I put him in mind</l>
+               <l>Of what I deſign'd,</l>
+               <l>And he very briskly reply'd,</l>
+               <l>De <hi>French</hi> and de <hi>Dutch,</hi>
+               </l>
+               <l>Dat love her ſo much,</l>
+               <l>Will take Care dat ſhe ſhall be ſupply'd.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Frenchman,</hi> Begar,</l>
+               <l>Will take very good Care,</l>
+               <l>To lay her ſo deep ſhe ſhant riſe;</l>
+               <l>For if once ſhe ſhou'd,</l>
+               <l>Dat wou'd be no very good,</l>
+               <l>If de <hi>Engliſh</hi> ſhou'd open their Eyes.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Beadle</hi> here ends</l>
+               <l>The Tale he intends,</l>
+               <l>And ſo we march on to the Grave;</l>
+               <l>But when we come nigh,</l>
+               <l>There was ſuch an Outcry,</l>
+               <l>Good Lord, how the People did Rave.</l>
+            </lg>
+            <lg>
+               <l>There was <hi>Gun-ſmiths,</hi> and <hi>Cutlers,</hi>
+               </l>
+               <l>And <hi>Founders,</hi> and <hi>Sutlers,</hi>
+               </l>
+               <l>And <hi>Coach-makers</hi> a great many,</l>
+               <l>There was <hi>Coblers,</hi> and <hi>Tinkers,</hi>
+               </l>
+               <l>Thoſe Honeſt Ale-drinkers,</l>
+               <l>And <hi>Shoe-makers</hi> too more than any.</l>
+            </lg>
+            <lg>
+               <pb n="15" facs="tcp:172269:8"/>
+               <l>There was ſome of all Trades,</l>
+               <l>Even <hi>Rogues, Thieves,</hi> and <hi>Jades,</hi>
+               </l>
+               <l>All howling and yelping about her,</l>
+               <l>Such throwing away Snot,</l>
+               <l>Drivel, Piſs, and what not,</l>
+               <l>That in ſhort I wiſh'd my ſelf out, Sir.</l>
+            </lg>
+            <lg>
+               <l>Had you been next,</l>
+               <l>When Mr. <hi>Spin-Text</hi>
+               </l>
+               <l>Began to hold forth to the People,</l>
+               <l>You'd have Swore that the Jar</l>
+               <l>Had been louder by far,</l>
+               <l>Than that 'twixt the <hi>Change</hi> and <hi>Bow-Steeple.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And then for the Sound</l>
+               <l>When they put her i'th' Ground,</l>
+               <l>What Mortal was able to bear it?</l>
+               <l>For my part, I confeſs,</l>
+               <l>I got out of the preſs,</l>
+               <l>And left thoſe that lik'd it, to hear it.</l>
+            </lg>
+            <lg>
+               <l>But now to conclude,</l>
+               <l>I think 'twou'd be rude,</l>
+               <l>Without ſaying ſomething o'th' Dame;</l>
+               <l>In ſhort, we ſhall miſs her,</l>
+               <l>But you know how 'tis, Sir,</l>
+               <l>And let thoſe that deſerve't have the Blame.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
